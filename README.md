@@ -1,2 +1,2 @@
-# hypixel-skyblock
+# Hypixel Skyblock
 hypixel skyblock items
