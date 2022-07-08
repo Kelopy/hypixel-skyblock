@@ -10,3 +10,10 @@ commands:
     permission-message: "§cYou don't have permission to execute this command."
     aliases:
       - aspectoftheend
+  grapplinghook:
+    description: gives you a grappling hook
+    usage: /<command> [player]
+    permission: skyblock.grapplinghook
+    permission-message: "§cYou don't have permission to execute this command."
+    aliases:
+      - ghook
