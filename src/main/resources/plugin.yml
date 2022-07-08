@@ -1,0 +1,12 @@
+name: HypixelSkyblock
+version: '${project.version}'
+main: me.kelopy.hypixelskyblock.HypixelSkyblock
+authors: [ Kelopy ]
+commands:
+  aote:
+    description: gives you an aspect of the end
+    usage: /<command> [player]
+    permission: skyblock.aote
+    permission-message: "§cYou don't have permission to execute this command."
+    aliases:
+      - aspectoftheend
