@@ -1,2 +1,5 @@
 # Hypixel Skyblock
-hypixel skyblock items
+
+Includes:
+- Aspect of the End
+- Grappling Hook
